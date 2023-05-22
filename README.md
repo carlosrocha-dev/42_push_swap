@@ -9,3 +9,16 @@ the lowest possible number of actions. To succeed it must have to manipulate var
 types of algorithms and choose the most appropriate solution (out of many) for an
 optimized data sorting.
 
+## How tu run
+
+1. Clone the project: ```git@github.com:carlosrocha-dev/42_push_swap.git```
+2. Go to the folder: ```cd 42_push_swap```
+3. Run the commands
+```Bash
+
+> make
+
+> make test100
+
+
+```
