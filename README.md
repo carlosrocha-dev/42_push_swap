@@ -2,6 +2,7 @@
 ## Because Swap_push isn’t as natural
 ![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/610cced2-9e84-43a9-8cad-16413c009050)
 
+(This image is for illustrative purposes only.)
 ---
 
 This project is about sort data on a stack, with a limited set of instructions, using
