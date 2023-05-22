@@ -1,2 +1,11 @@
-# teste
-# 42_push_swap
+# 42 Push Swap
+## Because Swap_push isn’t as natural
+![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/610cced2-9e84-43a9-8cad-16413c009050)
+
+---
+
+This project is about sort data on a stack, with a limited set of instructions, using
+the lowest possible number of actions. To succeed it must have to manipulate various
+types of algorithms and choose the most appropriate solution (out of many) for an
+optimized data sorting.
+
