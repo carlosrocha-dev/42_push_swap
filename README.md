@@ -10,7 +10,9 @@
 
  <div align="center"> 
 ---
-  
+
+https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/fae34478-1b6b-41b9-82a6-92309e4dfab4
+
 ## Because Swap_push isn’t as natural
    
 ---
