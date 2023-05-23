@@ -2,16 +2,13 @@
 
 ![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/0a006021-b54b-48cb-b1d1-a59ee0435dfd)
 
-</div>
-
-<div align="center"> 
-  
 # 42 Push Swap
 
- <div align="center"> 
----
+</div> 
 
 https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/fae34478-1b6b-41b9-82a6-92309e4dfab4
+
+</div>
 
 ## Because Swap_push isn’t as natural
    
@@ -28,10 +25,13 @@ optimized data sorting.
 2. Go to the folder: ```cd 42_push_swap```
 3. Run the commands
 ```Bash
-
 > make
+```
 
+```Bash
 > make test100
+```
 
-
+```Bash
+> make test500
 ```
